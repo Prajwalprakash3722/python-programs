@@ -53,3 +53,5 @@ while True:
 
 
         print(f"{num} digit alphanumeric code:{stringgenerator()}")
+    else:
+        print("Enter only given choices (1/2/3)")
