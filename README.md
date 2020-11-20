@@ -9,3 +9,4 @@ My portfolio: https://prajwalprakash3722.github.io/prajwalsportfolio/
 1) Weight-converter: This program is used to convert Kgs to Pounds And aswell as ounces.</br>
 2) BMI: This program is used to fing the body mass index of your body obtaining height and weight from the user.</br>
 3) Numbertotext:  This program is to convert any (0-9) numbers to text</br>
+4) Calculator: This program is to calculate simple basic mathematical operations(+,-,*,/). (Advance calculator will be comming soon) <br>
