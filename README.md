@@ -10,3 +10,7 @@ My portfolio: https://prajwalprakash3722.github.io/prajwalsportfolio/
 2) BMI: This program is used to fing the body mass index of your body obtaining height and weight from the user.</br>
 3) Numbertotext:  This program is to convert any (0-9) numbers to text</br>
 4) Calculator: This program is to calculate simple basic mathematical operations(+,-,*,/). (Advance calculator will be comming soon) <br>
+5) Random password genrator: This program will genrate random passwords.
+ <ul> <li> Four digits numeric code.</li>
+  <li> Your choice of numbered digit numeric password.</li>
+  <li> Your choice of numbered alphanumeric password.</li> </ul>
